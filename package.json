@@ -1,0 +1,16 @@
+{
+  "name": "datetime-format-demo",
+  "version": "1.0.0",
+  "description": "npm module test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dajuncn/datetime-format-demo"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "junge",
+  "license": "ISC"
+}
